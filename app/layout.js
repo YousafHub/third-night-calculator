@@ -36,7 +36,7 @@ export const metadata = {
   },
 
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "Last Third of Night Calculator",
     description:
       "Find Tahajjud time easily using Maghrib and Fajr prayer times.",
