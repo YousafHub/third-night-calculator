@@ -28,7 +28,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "/favicon.svg",
+        url: "/twitter-card.png",
         width: 512,
         height: 512,
       },
