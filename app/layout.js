@@ -7,7 +7,7 @@ export const metadata = {
   title: "Last Third of Night Calculator (Tahajjud Time) | Islamic Tool",
   description:
     "Easily calculate the last third of the night (Tahajjud time) using Maghrib and Fajr prayer times. A simple, fast, and accurate Islamic prayer timing tool.",
-  
+
   keywords: [
     "tahajjud time calculator",
     "last third of night",
@@ -28,19 +28,19 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "/twitter-card.png",
-        width: 512,
-        height: 512,
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
       },
     ],
   },
 
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Last Third of Night Calculator",
     description:
       "Find Tahajjud time easily using Maghrib and Fajr prayer times.",
-    images: ["/twitter-card.png"],
+    images: ["/og-image.png"],
   },
 
   icons: {
