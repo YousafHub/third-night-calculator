@@ -17,13 +17,13 @@ export const metadata = {
     "tahajjud calculator online",
   ],
 
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://tahajjud-time-calculator.vercel.app"),
 
   openGraph: {
     title: "Last Third of Night Calculator (Tahajjud Time)",
     description:
       "Calculate Tahajjud time easily using Maghrib and Fajr prayer times.",
-    url: "https://your-domain.com",
+    url: "https://tahajjud-time-calculator.vercel.app",
     siteName: "Tahajjud Calculator",
     type: "website",
     images: [
@@ -40,7 +40,7 @@ export const metadata = {
     title: "Last Third of Night Calculator",
     description:
       "Find Tahajjud time easily using Maghrib and Fajr prayer times.",
-    images: ["/favicon.svg"],
+    images: ["/twitter-card.png"],
   },
 
   icons: {
