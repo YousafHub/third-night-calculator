@@ -17,32 +17,6 @@ export const metadata = {
     "tahajjud calculator online",
   ],
 
-  metadataBase: new URL("https://tahajjud-time-calculator.vercel.app"),
-
-  openGraph: {
-    title: "Last Third of Night Calculator (Tahajjud Time)",
-    description:
-      "Calculate Tahajjud time easily using Maghrib and Fajr prayer times.",
-    url: "https://tahajjud-time-calculator.vercel.app",
-    siteName: "Tahajjud Calculator",
-    type: "website",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-      },
-    ],
-  },
-
-  twitter: {
-    card: "summary_large_image",
-    title: "Last Third of Night Calculator",
-    description:
-      "Find Tahajjud time easily using Maghrib and Fajr prayer times.",
-    images: ["/og-image.png"],
-  },
-
   icons: {
     icon: "/favicon.svg",
   },
